@@ -5,6 +5,9 @@
     font-family: 'rubik';
 }
 
+html{
+    scroll-behavior: smooth;
+}
 ::-webkit-scrollbar{
     background-color: transparent;
     width: 10px;
